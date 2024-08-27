@@ -1,4 +1,4 @@
 Getting the User data....
 processing the data
 
-Adding avtar 
+Adding avtar  
